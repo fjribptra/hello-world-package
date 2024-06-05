@@ -1,6 +1,6 @@
 {
   "name": "@fjribptra/hello-world",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "just hello world",
   "main": "index.js",
   "scripts": {
